@@ -39,6 +39,7 @@
             android:layout_marginTop="15dp"
             android:text="Retrofit Request"
             android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -50,6 +51,7 @@
             android:layout_marginTop="30dp"
             android:text="Volley Request"
             android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/result" />
     </androidx.constraintlayout.widget.ConstraintLayout>
