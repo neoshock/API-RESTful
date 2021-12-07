@@ -1,2 +1,2 @@
-# API-RESTfull
+# API-RESTful
 ## Estudiante: Lino Josue Alcívar Delgado
